@@ -1,8 +1,8 @@
-package app.template.patches.strong
+package app.strong
 
 import app.morphe.patcher.extensions.InstructionExtensions.addInstructions
 import app.morphe.patcher.patch.bytecodePatch
-import app.template.patches.shared.Constants.COMPATIBILITY_STRONG
+import app.shared.Constants
 
 @Suppress("unused")
 val strongUnlockPatch = bytecodePatch(
@@ -10,7 +10,7 @@ val strongUnlockPatch = bytecodePatch(
     description = "Unlocks Strong PRO Forever subscription status.",
     default = true
 ) {
-    compatibleWith(COMPATIBILITY_STRONG)
+    compatibleWith(Constants.COMPATIBILITY_STRONG)
 
     execute {
         H4Fingerprint.method.addInstructions(

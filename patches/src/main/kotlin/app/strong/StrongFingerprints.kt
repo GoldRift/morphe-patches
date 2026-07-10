@@ -1,4 +1,4 @@
-package app.template.patches.strong
+package app.strong
 
 import app.morphe.patcher.Fingerprint
 import app.morphe.patcher.fieldAccess
