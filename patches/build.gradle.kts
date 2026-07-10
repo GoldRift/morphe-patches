@@ -1,14 +1,13 @@
-group = "app.template"
+group = "app.GoldRift"
 
 patches {
-    // TODO: Update this section with your project details.
     about {
-        name = "UserXYZ Patches"
+        name = "GoldRift's Patches"
         description = "Patches for apps I like"
-        source = "git@github.com:UserXYZ/morphe-patches.git"
-        author = "Awesome dev"
-        contact = "na"
-        website = "na"
+        source = "git@github.com:GoldRift/morphe-patches.git"
+        author = "GoldRift"
+        contact = "https://github.com/GoldRift/morphe-patches/issues"
+        website = "https://github.com/GoldRift/morphe-patches"
         license = "GPLv3"
     }
 }
