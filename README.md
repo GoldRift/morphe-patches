@@ -9,7 +9,7 @@ Patches for apps I like.
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.0.0](https://github.com/GoldRift/morphe-patches/releases/tag/v1.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
+> **[v1.0.0-dev.1](https://github.com/GoldRift/morphe-patches/releases/tag/v1.0.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
 <details open>
 <summary>📦 Strong&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
@@ -21,7 +21,7 @@ Patches for apps I like.
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
-| [Strong PRO Forever Unlock](#strong-pro-forever-unlock) | Unlocks Strong PRO Forever subscription status. |  |
+| [Unlock Pro](#unlock-pro) | Unlocks all Strong Pro features. |  |
 
 </details>
 
