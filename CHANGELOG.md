@@ -1,3 +1,9 @@
+## 1.0.0-dev.1 (2026-07-12)
+
+### ✨ New Features
+
+* add strong app unlock pro patch ([03b67e4](https://github.com/GoldRift/morphe-patches/commit/03b67e4d4673b3cb1e7c88ff4b0c7ddfa2118e61))
+
 ## 1.0.0 (2026-07-10)
 
 ### ✨ New Features
