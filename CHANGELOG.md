@@ -1,3 +1,9 @@
+## [1.0.0-dev.2](https://github.com/GoldRift/morphe-patches/compare/v1.0.0-dev.1...v1.0.0-dev.2) (2026-10-13)
+
+### ✨ New Features
+
+* add HiPaint subscription unlock patch ([629aa4e](https://github.com/GoldRift/morphe-patches/commit/629aa4ee42ba49b698e0ec860eb811f4e22ae49c))
+
 ## 1.0.0 (2026-10-13)
 
 ### ✨ New Features
