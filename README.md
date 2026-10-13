@@ -9,7 +9,7 @@ Patches for apps I like.
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.0.0-dev.1](https://github.com/GoldRift/morphe-patches/releases/tag/v1.0.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
+> **[v1.0.0-dev.1](https://github.com/GoldRift/morphe-patches/releases/tag/v1.0.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;2 patches total
 <details open>
 <summary>📦 Strong&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
@@ -22,6 +22,16 @@ Patches for apps I like.
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [Unlock Pro](#unlock-pro) | Unlocks all Strong Pro features. |  |
+
+</details>
+
+<details open>
+<summary>📦 HiPaint&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Unlock Subscription](#unlock-subscription) | Unlocks subscription features. Requires the "Spoof signature" patch from the Morphe patches bundle to be enabled. |  |
 
 </details>
 
