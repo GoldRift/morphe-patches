@@ -2,6 +2,8 @@
 
 Morphe patches for the apps I use.
 
+**Important**: for HiPaint, make sure to use morphe's spoof signature patch by enabling expert mode, and selecting both my hipaint patch and morphe's spoof signature patch 
+
 ## ❓ About
 
 Patches for apps I like.
