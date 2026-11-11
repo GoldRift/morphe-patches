@@ -1,12 +1,12 @@
 {
   "NOTE": "Do NOT manually edit this file. This file is automatically updated when semantic release (release.yml) runs. Manually editing this file can break your releases and break third party tools that use this file.",
-  "version": "1.0.0-dev.1",
+  "version": "1.0.0",
   "patches": [
     {
       "name": "Unlock Pro",
       "description": "Unlocks all Strong Pro features.",
       "default": true,
-      "category": null,
+      "dependencies": [],
       "compatiblePackages": [
         {
           "packageName": "io.strongapp.strong",
@@ -15,7 +15,6 @@
           "apkFileType": "APK",
           "appIconColor": "#1565C0",
           "signatures": null,
-          "formFactor": "MOBILE",
           "targets": [
             {
               "version": "v6.2.2",
@@ -33,7 +32,7 @@
       "name": "Unlock Subscription",
       "description": "Unlocks subscription features. Requires the \"Spoof signature\" patch from the Morphe patches bundle to be enabled.",
       "default": true,
-      "category": null,
+      "dependencies": [],
       "compatiblePackages": [
         {
           "packageName": "com.aige.hipaint",
@@ -42,7 +41,6 @@
           "apkFileType": "APK",
           "appIconColor": "#1E88E5",
           "signatures": null,
-          "formFactor": "MOBILE",
           "targets": [
             {
               "version": null,
