@@ -1,3 +1,9 @@
+## [1.1.1](https://github.com/GoldRift/morphe-patches/compare/v1.1.0...v1.1.1) (2026-11-11)
+
+### 🚀 Updated App Support
+
+* Update Strong to v6.2.8 ([faf0a79](https://github.com/GoldRift/morphe-patches/commit/faf0a7975946caece3f53e853aaef37fdf7d55c0))
+
 ## [1.1.1-dev.1](https://github.com/GoldRift/morphe-patches/compare/v1.1.0...v1.1.1-dev.1) (2026-11-11)
 
 ### 🚀 Updated App Support
