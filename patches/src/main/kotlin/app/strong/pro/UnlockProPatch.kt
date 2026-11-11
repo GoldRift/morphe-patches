@@ -16,7 +16,7 @@ val unlockProPatch = patch(
         ProCheckerFingerprint.method.addInstructions(
             0,
             """
-                sget-object v0, Lep6;->i:Lep6;
+                sget-object v0, Lwp6;->i:Lwp6;
                 return-object v0
             """
         )
