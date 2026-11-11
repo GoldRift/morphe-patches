@@ -1,6 +1,6 @@
 {
   "NOTE": "Do NOT manually edit this file. This file is automatically updated when semantic release (release.yml) runs. Manually editing this file can break your releases and break third party tools that use this file.",
-  "version": "1.1.0",
+  "version": "1.1.1-dev.1",
   "patches": [
     {
       "name": "Unlock Pro",
@@ -12,13 +12,13 @@
           "packageName": "io.strongapp.strong",
           "name": "Strong",
           "description": null,
-          "apkFileType": "APK",
+          "apkFileType": "APKM",
           "appIconColor": "#1565C0",
           "signatures": null,
           "formFactor": "MOBILE",
           "targets": [
             {
-              "version": "v6.2.2",
+              "version": "v6.2.8",
               "versionCodes": null,
               "isExperimental": false,
               "minSdk": null,
