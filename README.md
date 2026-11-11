@@ -2,8 +2,6 @@
 
 Morphe patches for the apps I use.
 
-**Important**: for HiPaint, make sure to use morphe's spoof signature patch by enabling expert mode, and selecting both my hipaint patch and morphe's spoof signature patch 
-
 ## ❓ About
 
 Patches for apps I like.
@@ -11,10 +9,12 @@ Patches for apps I like.
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.0.0](https://github.com/GoldRift/morphe-patches/releases/tag/v1.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;2 patches total
+> **[v1.1.0-dev.1](https://github.com/GoldRift/morphe-patches/releases/tag/v1.1.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;2 patches total
 <details open>
 <summary>📦 Strong&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
+
+**Package name:** `io.strongapp.strong`
 
 **🎯 Supported versions:**
 
@@ -31,9 +31,11 @@ Patches for apps I like.
 <summary>📦 HiPaint&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
 
+**Package name:** `com.aige.hipaint`
+
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
-| [Unlock Subscription](#unlock-subscription) | Unlocks subscription features. Requires the "Spoof signature" patch from the Morphe patches bundle to be enabled. |  |
+| [Unlock Subscription](#unlock-subscription) | Unlocks subscription features. Spoofs the original app signature so the unlock is accepted. |  |
 
 </details>
 

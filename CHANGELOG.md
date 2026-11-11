@@ -1,3 +1,9 @@
+## [1.1.0-dev.1](https://github.com/GoldRift/morphe-patches/compare/v1.0.0...v1.1.0-dev.1) (2026-11-11)
+
+### ✨ New Features
+
+* bundle Morphe signature spoof into HiPaint unlock patch ([7e2b08b](https://github.com/GoldRift/morphe-patches/commit/7e2b08b3c1dc12025e71f7593fa0bb2221c7582a))
+
 ## 1.0.0 (2026-10-24)
 
 ### ✨ New Features
