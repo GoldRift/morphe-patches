@@ -19,6 +19,9 @@ val patchListGeneratorClasspath = configurations.create("patchListGeneratorClass
 dependencies {
     compileOnly(libs.gson)
     patchListGeneratorClasspath(libs.gson)
+
+    // Morphe's shared patches, bundled into this .mpp (extension DEX included).
+    implementation(libs.morphe.patches.library)
 }
 
 tasks {
